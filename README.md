@@ -39,6 +39,11 @@ Leveraging Azure Data Factory for orchestration
 Storing and transforming data using Azure Data Lake Storage Gen2 and Azure Databricks
 Optimizing data performance with Delta Lake
 Integrating with Azure Synapse Analytics for powerful data analytics
+
+![image](https://github.com/user-attachments/assets/f8ca0e52-ef0f-406a-96af-642749136f9d)
+
+
+
 This project underscores the versatility and power of Azure’s data engineering tools, showcasing how they can be combined to deliver sophisticated data solutions. I’m proud of the results and excited about the potential to apply these insights to future endeavors!
 
 🔗 Connect with Me: If you’re interested in discussing Azure data engineering or have any questions about this project, feel free to reach out!
